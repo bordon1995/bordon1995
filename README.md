@@ -1,6 +1,6 @@
 ## Hola! 👋 mi nombre es Daniel
 
-![images](https://user-images.githubusercontent.com/77468883/107891808-b22de480-6eff-11eb-990f-a71d35426f5f.png)
+![descarga](https://user-images.githubusercontent.com/77468883/107891966-b9a1bd80-6f00-11eb-8022-754b7ce903e2.png)
 
 
 Here are some ideas to get you started:
