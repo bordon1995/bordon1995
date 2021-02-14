@@ -1,6 +1,7 @@
 ## Hola! 👋 mi nombre es Daniel
 
-![bannerprogramacion](https://user-images.githubusercontent.com/77468883/107892217-734d5e00-6f02-11eb-8f4b-4d5efdb24e5d.jpg)
+
+![1366_521](https://user-images.githubusercontent.com/77468883/107892418-bcea7880-6f03-11eb-9991-c7cad67ff62a.jpg)
 
 
 
