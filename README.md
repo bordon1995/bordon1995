@@ -1,6 +1,7 @@
 ## Hola! 👋 mi nombre es Daniel
 
-![FB_IMG_1613344488869](https://user-images.githubusercontent.com/77468883/107892130-dd193800-6f01-11eb-9bc3-453008e9bff9.png)
+![bannerprogramacion](https://user-images.githubusercontent.com/77468883/107892217-734d5e00-6f02-11eb-8f4b-4d5efdb24e5d.jpg)
+
 
 
 
