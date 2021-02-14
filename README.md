@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hola! 👋 mi nombre es Bordon Daniel
 
-<!--
-**bordon1995/bordon1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
