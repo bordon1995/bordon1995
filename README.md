@@ -1,4 +1,6 @@
-## Hola! 👋 mi nombre es Bordon Daniel
+## Hola! 👋 mi nombre es Daniel
+
+![IMG](https://user-images.githubusercontent.com/77468883/107891382-0e433980-6efd-11eb-9b40-44f5c19553c6.png)
 
 
 Here are some ideas to get you started:
