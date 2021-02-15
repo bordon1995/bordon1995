@@ -4,6 +4,8 @@
 ![1366_521](https://user-images.githubusercontent.com/77468883/107892418-bcea7880-6f03-11eb-9991-c7cad67ff62a.jpg)
 
 
+### Sobre mi :monocle_face:
+Soy estudiante en Ingeniería Informática en la facultad tecnológica nacional (UTN) . Mi objetivo es convertirme en desarrollador fullstack , me gustan los desafíos y soy una persona competitiva . 
 ### :wrench: Actualmente estoy trabajando :construction_worker: 
 En el desarrollo de paginas web con las herramientas de JS , HTML y CSS3 . Aplicando frameworks como Angular y node js , con el objetivo de que las paginas web sean mas interactivas con el usuario
 ### Actualmente estoy estudiando :zap::memo:
