@@ -5,10 +5,10 @@
 
 
 ### Sobre mi :monocle_face:
-Soy estudiante en Ingeniería Informática en la facultad tecnológica nacional (UTN) . Mi objetivo es convertirme en desarrollador fullstack , me gustan los desafíos y soy una persona competitiva . 
+Soy estudiante en Ingeniería Informática en la facultad tecnológica nacional (UBA) . Mi objetivo es convertirme en desarrollador fullstack , me gustan los desafíos y soy una persona competitiva . 
 ### :wrench: Actualmente estoy trabajando :construction_worker: 
-En el desarrollo de paginas web con las herramientas de JS , HTML y CSS3 . Aplicando frameworks como Angular y node js , con el objetivo de que las paginas web sean mas interactivas con el usuario
+En el desarrollo de paginas web con las herramientas de Node , MySQL y Express . Aplicando frameworks como React , con el objetivo de que las paginas web sean mas interactivas con el usuario
 ### Actualmente estoy estudiando :zap::memo:
-java EE , javascript , HTML5 , CSS3 , php , Angular , node js y react .
+java EE , IBM y Spring.
 
 
