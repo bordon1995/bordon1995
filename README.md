@@ -5,10 +5,10 @@
 
 
 ### Sobre mi :monocle_face:
-Soy estudiante en Ingeniería Informática en la facultad tecnológica nacional (UBA) . Mi objetivo es convertirme en desarrollador fullstack , me gustan los desafíos y soy una persona competitiva . 
+Soy estudiante en sistemas en la Universidad de Buenos Aires (UBA) . Este es mi segundo año en la carrera. Mi objetivo es convertirme en desarrollador fullstack , me gustan los desafíos y soy una persona competitiva . 
 ### :wrench: Actualmente estoy trabajando :construction_worker: 
-En el desarrollo de paginas web con las herramientas de Node , MySQL y Express . Aplicando frameworks como React , con el objetivo de que las paginas web sean mas interactivas con el usuario
+En el desarrollo de paginas web con las herramientas de Node , MySQL , React , TypeScript y Java . Aplicando frameworks como React , con el objetivo de que las paginas web sean mas interactivas con el usuario
 ### Actualmente estoy estudiando :zap::memo:
-java EE , IBM y Spring.
+Otro campo en la programacion que me parece interesante es el desarrollo de aplicaciones moviles . Es por ello que me estoy enfocando en tecnologias como React , TypeScript y Java para el desarrollo de aplicaciones moviles
 
 
